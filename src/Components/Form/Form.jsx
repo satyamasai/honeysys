@@ -32,7 +32,7 @@ const Form = () => {
   return (
     <div className="form_div">
       <form className="form" onSubmit={handleSubmit}>
-        <label for="fname">Product name:</label>
+        <label >Product name:</label>
         <br />
         <input
           type="text"
