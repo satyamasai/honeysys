@@ -1,0 +1,118 @@
+
+
+.home{
+
+    width: 98.5vw;
+    height: 120vh;
+    /* background-color: rgb(107, 72, 72); */
+    display: flex;
+}
+
+.left_div{
+    width: 24vw;
+    /* border: 1px solid red; */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.right_div{
+    width: 74vw;
+    /* border: 1px solid blue; */
+}
+
+.table_div{
+    width: 65%;
+    /* border: 1px solid rgb(179, 36, 36); */
+    margin: auto;
+    height: 44vh;
+    /* overflow: scroll; */
+    overflow: auto;
+    margin-top: 20px;
+    color: rgb(44, 39, 39);
+
+    background: rgba(255, 255, 255, 0.44);
+/* border-radius: 16px; */
+box-shadow: 0 4px 30px rgba(26, 23, 23, 0.1);
+backdrop-filter: blur(8px);
+
+
+
+}
+.carousel_div{
+    width: 80%;
+    /* border: 1px solid rgb(68, 46, 46); */
+    margin: auto;
+    height: 50vh;
+    margin-top: 20px;
+  
+    color: white;
+}
+
+.datalab_div{
+    width:70%;
+    /* border: 1px solid blue; */
+    height: 300px;
+    margin: auto;
+    display: flex;
+}
+
+
+@media all and (max-width:760px) {
+    .home{
+       display: grid;
+       /* border: 1px solid green; */
+       height: auto;
+    }
+
+    .left_div{
+        width: 80vw;
+        /* border: 1px solid red; */
+        margin: auto;
+    }
+
+    .right_div{
+        width: 95vw;
+        /* border: 1px solid blue; */
+        margin: auto;
+    }
+
+
+    .table_div{
+        width: 90%;
+        /* border: 1px solid rgb(83, 55, 55); */
+        margin: auto;
+        height: 40vh;
+        /* overflow: scroll; */
+        overflow: auto;
+        margin-top: 20px;
+        color: white;
+        font-size: 12px
+    
+    }
+
+    .carousel_div{
+        width: 100%;
+        /* border: 1px solid rgb(68, 46, 46); */
+        margin: auto;
+        height: 50vh;
+        margin-top: 20px;
+      
+        color: white;
+    }
+    .carousel_div>div{
+        font-size: 12px;
+    }
+    
+
+    
+.datalab_div>div{
+    width:80%;
+    /* border: 1px solid blue; */
+    margin-top: 10px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+}
+    
+     }
+

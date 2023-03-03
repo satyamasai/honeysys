@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "description": "typicode",
+      "price": 12000,
+      "brand": "Sony",
+      "image_URL": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "carousel": true
+    },
+    {
+      "id": 2,
+      "name": "json-server",
+      "description": "typicode",
+      "price": 1000,
+      "brand": "Sony",
+      "image_URL": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "carousel": true
+    },
+    {
+      "id": 3,
+      "name": "bear headphone",
+      "description": "typicode",
+      "price": 4700,
+      "brand": "Sony",
+      "image_URL": "https://images.unsplash.com/photo-1545127398-14699f92334b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aGVhZHBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "carousel": true
+    },
+    {
+      "id": 6,
+      "name": "headphone",
+      "description": "real headphomne",
+      "price": 1200,
+      "brand": "Sony",
+      "image_URL": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "carousel": true
+    },
+    {
+      "id": 7,
+      "name": "json-server",
+      "description": "typicode",
+      "price": 1000,
+      "brand": "Sony",
+      "image_URL": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "carousel": true
+    },
+    {
+      "name": "JotStick",
+      "brand": "Sony",
+      "description": " this is sony joystick for video game",
+      "image_URL": "https://images.unsplash.com/photo-1661276503896-aa8b017f8914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGpveXN0aWNrJTIwc29ueXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "5000",
+      "carousel": true,
+      "id": 11
+    },
+    {
+      "name": "JotStick",
+      "brand": "Sony",
+      "description": "dsfsdfgsdgs",
+      "image_URL": "https://images.unsplash.com/photo-1665791007855-74f9f18557c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8am95c3RpY2slMjBzb255fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "2323",
+      "carousel": false,
+      "id": 12
+    },
+    {
+      "name": "Bycycle",
+      "brand": "Hercules",
+      "description": "dsfsdfgsdgs",
+      "image_URL": "https://images.unsplash.com/photo-1583467875263-d50dec37a88c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "12323",
+      "carousel": false,
+      "id": 13
+    },
+    {
+      "name": "mario ",
+      "brand": "atlas",
+      "description": "mario is super hero",
+      "image_URL": "https://images.unsplash.com/photo-1595429035839-c99c298ffdde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFyaW98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "4500",
+      "carousel": true,
+      "id": 14
+    },
+    {
+      "name": "cycle101",
+      "brand": "hERO",
+      "description": "A GOOD CYCLE",
+      "image_URL": "https://images.unsplash.com/photo-1624522008901-55790cc6ea2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y3ljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "price": "4500",
+      "carousel": false,
+      "id": 15
+    }
+  ]
+}
